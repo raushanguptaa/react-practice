@@ -22,9 +22,9 @@ A simple and responsive portfolio website built using React and Tailwind CSS.
 
 ### Home Section
 
-![Home]
 
-alt text](<Screenshot 2026-06-06 160441.png>) 
+
+![alt text](<Screenshot 2026-06-06 160441.png>) 
 
 ### About Section
 
