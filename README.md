@@ -24,15 +24,15 @@ A simple and responsive portfolio website built using React and Tailwind CSS.
 
 ![Home]
 
-![alt text]![alt text](<Screenshot 2026-06-06 160441.png>) ![alt text](<Screenshot 2026-06-06 160459.png>) ![alt text](<Screenshot 2026-06-06 160517.png>)
+alt text](<Screenshot 2026-06-06 160441.png>) 
 
 ### About Section
 
-![About](./screenshots/about.png)
+![alt text](<Screenshot 2026-06-06 160459.png>)
 
 ### Projects Section
 
-![Projects](./screenshots/projects.png)
+ ![alt text](<Screenshot 2026-06-06 160517.png>)
 
 ## Run Locally
 
